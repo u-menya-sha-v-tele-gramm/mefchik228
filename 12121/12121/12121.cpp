@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// Функция для решения квадратного уравнения методом дискриминанта
+
 void solveByDiscriminant(double a, double b, double c)
 {
     setlocale(LC_ALL, "Russian");
